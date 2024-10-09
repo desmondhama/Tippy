@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 50,
+          "index": 317,
+          "line": 5
+        },
+        "start": {
+          "column": 50,
+          "index": 317,
+          "line": 5
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 50,
+          "line": 1
+        },
+        "start": {
+          "column": 11,
+          "index": 50,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values-night/themes.xml",
+      "selection": {
+        "end": {
+          "column": 64,
+          "index": 123,
+          "line": 1
+        },
+        "start": {
+          "column": 64,
+          "index": 123,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values-night/colors.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 150,
+          "line": 5
+        },
+        "start": {
+          "column": 0,
+          "index": 150,
+          "line": 5
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 3,
+          "index": 1124,
+          "line": 51
+        },
+        "start": {
+          "column": 3,
+          "index": 1124,
+          "line": 51
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values/themes.xml"
+}
