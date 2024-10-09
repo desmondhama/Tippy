@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 1194,
+          "line": 29
+        },
+        "start": {
+          "column": 52,
+          "index": 1194,
+          "line": 29
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 46,
+          "index": 97,
+          "line": 2
+        },
+        "start": {
+          "column": 46,
+          "index": 97,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/java/com/nexera/tippy/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Tippy/app/src/main/res/layout/activity_main.xml"
+}
